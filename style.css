@@ -546,9 +546,7 @@ main{
     margin-right: 0;
     padding-left: 40px;
 }
-.player{
-    
-}
+
 
 
 .previous-match{
@@ -570,7 +568,5 @@ main{
     flex-direction: row;
 }
 
-.last-footer{
-    width:100px;
-}
+
     }
